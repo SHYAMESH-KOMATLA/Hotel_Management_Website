@@ -32,7 +32,7 @@ Hotel_Management_Website/
 
 # 🚀 How to Run Locally
 **Clone the repository**
-git clonehttps://github.com/SHYAMESH-KOMATLA/Hotel_Mnagement_Website.git
+git clone https://github.com/SHYAMESH-KOMATLA/Hotel_Mnagement_Website.git
 cd Hotel_Management_Website
 Setup Local Server,
 Open XAMPP,
