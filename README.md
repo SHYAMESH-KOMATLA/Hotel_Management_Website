@@ -59,7 +59,7 @@ https://hotelmanagementshyam.netlify.app/
 **Homepage**
 ![Image 1](readme_images/image1.png)
 **Property List Page**
-![Image 2](readme_images/image2.jpg)
+![Image 2](readme_images/image2.png)
 **Property Detail Page**
 ![Image 3](readme_images/image3.png)
 
